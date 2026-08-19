@@ -11,9 +11,9 @@ sua aprovação antes de publicar, e um recibo no fim.
 
 <br>
 
-<a href="../../releases/latest"><img src="https://img.shields.io/badge/Baixar%20para%20macOS-Apple%20Silicon-B37737?style=for-the-badge&logo=apple&logoColor=white&labelColor=0A0A0B" alt="Baixar para macOS"></a>
+<a href="../../releases/latest/download/ArkDesk.dmg"><img src="https://img.shields.io/badge/Baixar%20para%20macOS-Apple%20Silicon-B37737?style=for-the-badge&logo=apple&logoColor=white&labelColor=0A0A0B" alt="Baixar para macOS"></a>
 &nbsp;
-<a href="../../releases/latest"><img src="https://img.shields.io/badge/Baixar%20para%20Windows-64--bit-B37737?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0B" alt="Baixar para Windows"></a>
+<a href="../../releases/latest/download/ArkDesk-setup.exe"><img src="https://img.shields.io/badge/Baixar%20para%20Windows-64--bit-B37737?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0B" alt="Baixar para Windows"></a>
 
 <sub>Apple Silicon (M1 ou superior) · Windows 10+ 64-bit</sub>
 
@@ -84,8 +84,8 @@ mudança, publicação. Nada sai sem você.
 
 | Plataforma | Requisitos |
 |---|---|
-| 🍎 &nbsp;[**macOS**](../../releases/latest) | Apple Silicon (M1 ou superior) · macOS 11+ |
-| 🪟 &nbsp;[**Windows**](../../releases/latest) | Windows 10 ou superior · 64-bit |
+| 🍎 &nbsp;[**macOS**](../../releases/latest/download/ArkDesk.dmg) | Apple Silicon (M1 ou superior) · macOS 11+ |
+| 🪟 &nbsp;[**Windows**](../../releases/latest/download/ArkDesk-setup.exe) | Windows 10 ou superior · 64-bit |
 
 ### Primeira execução
 
