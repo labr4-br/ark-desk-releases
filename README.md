@@ -93,7 +93,7 @@ Os instaladores ainda não são assinados, então o sistema pede uma confirmaç�
 a mais na primeira vez:
 
 - **Windows** — o SmartScreen mostra *"editor desconhecido"*: **Mais informações → Executar assim mesmo**
-- **macOS** — o Gatekeeper recusa o duplo clique: **botão direito no app → Abrir**, e confirmar
+- **macOS** — o duplo clique é recusado: abra **Ajustes do Sistema → Privacidade e Segurança**, role até o aviso sobre o Ark Desk e clique em **Abrir Mesmo Assim**
 
 Uma vez só. Depois disso o app abre normalmente.
 
